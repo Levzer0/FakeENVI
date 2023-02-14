@@ -1,2 +1,2 @@
 # FakeENVI
-C#编写的轻量级遥感图像处理软件
+A digital image processing software developed by C# and .Net Framework.
